@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  background-color: cadetblue;
+  color: white;
+  border: 2px solid black;
+  text-shadow: 4px 2px 7px black;
+  font-size: 40px;
+}
+ol {
+  border: 2px solid darkred;
+  width: 250px;
+  text-align: center;
+  background-color: rgb(252, 243, 169);
+  margin-left: 100px;
+}
+ul {
+  border: 1.4px inset skyblue;
+  width: 180px;
+  border-radius: 25px 0px 25px 0px;
+  list-style-type: none;
+  background-color: rgb(231, 230, 230);
+  margin-left: 130px;
+}
+li {
+  line-height: 23px;
+  font-size: 17px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+h3 {
+  font-size: 150%;
+}
+a:hover {
+  color: white;
+  background-color: rgb(182, 179, 179);
+  text-decoration-line: underline;
+  border-radius: 4px;
+}
+a:visited {
+  color: brown;
+}
+a:link {
+  color: red;
+}
+body {
+  background-image: url("../img/Black\ 2.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+#x {
+  color: white;
+  margin-left: 20px;
+}
+hr {
+  text-align: left;
+  width: 293px;
+  margin-left: 100px;
+}
